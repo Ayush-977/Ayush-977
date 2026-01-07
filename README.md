@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Ayush! 👋
+### 2nd Year Student | AI & Python Enthusiast
 
-<!--
-**Ayush-977/Ayush-977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student passionate about building intelligent applications. My focus is on Python development, specifically creating AI agents and interactive web interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 About Me:
+🔭 I’m currently working on: A Chatbot with Persistent Memory using LangGraph, Streamlit, and Groq.
+
+🌱 I’m currently learning: Recommendation Systems and advanced Agentic AI workflows.
+
+👯 I’m looking to collaborate on: Open-source Python projects and AI-powered web apps.
+
+💬 Ask me about: Python, Streamlit, LangGraph, and Generative AI.
+
+⚡ Fun fact: I built my first number guessing game while learning Python loops!
+
+🌐 Socials:
+LinkedIn email
+
+💻 Tech Stack:
+C C++ HTML5 Java Python Vercel Streamlit Matplotlib NumPy Pandas GitHub
