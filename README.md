@@ -1,5 +1,5 @@
 # Hi there, I'm Ayush! 👋
-### 2nd Year Student | AI & Python Enthusiast
+### 3rd Year Student | AI & Python Enthusiast
 
 I am a Computer Science student passionate about building intelligent applications. My focus is on Python development, specifically creating AI agents and interactive web interfaces.
 
