@@ -6,7 +6,7 @@ I am a Computer Science student passionate about building intelligent applicatio
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on: A Chatbot with Persistent Memory using LangGraph, Streamlit, and Groq.<br><br>🌱 I’m currently learning: Recommendation Systems and advanced Agentic AI workflows.<br><br>👯 I’m looking to collaborate on: Open-source Python projects and AI-powered web apps.<br><br>💬 Ask me about: Python, Streamlit, LangGraph, and Generative AI.<br><br>⚡ Fun fact: I built my first number guessing game while learning Python loops!
+🔭 I’ve Build : A Chatbot with Persistent Memory using LangGraph, Streamlit, and Groq.<br><br>🌱 I’m currently learning: Recommendation Systems and advanced Agentic AI workflows.<br><br>👯 I’m looking to collaborate on: Open-source Python projects and AI-powered web apps.<br><br>💬 Ask me about: Python, Streamlit, LangGraph, and Generative AI.<br><br>⚡ Fun fact: I built my first number guessing game while learning Python loops!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mishra-b32357360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushmishra1365@gmail.com) 
